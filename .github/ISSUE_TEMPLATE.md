@@ -1,3 +1,6 @@
+Complete this template issue (in English or in French). 
+You can add screenshots if needed.
+
 #### My problem relates to:
 - Part: (1, 2 or 3)
 - Module: (module title)
